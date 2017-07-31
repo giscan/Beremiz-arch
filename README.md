@@ -1,7 +1,7 @@
 # Beremiz-arch
 Easy way to install beremiz on Archlinux
 
-1) PKGBUILD to build yourself
+1) PKGBUILD to build it yourself
 
 2) Or already build :
   a) Install dependencies : 
