@@ -1,7 +1,7 @@
 # Maintainer: Sylvain POULAIN <sylvain.poulain@giscan.com>
 
 pkgname=beremiz
-pkgver=1.0
+pkgver=1.2
 pkgrel=1
 pkgdesc="Beremiz is an integrated development environment for machine automation. It is Free Software, conforming to IEC-61131 among other standards"
 arch=('i686' 'x86_64')
