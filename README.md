@@ -7,6 +7,11 @@ https://aur.archlinux.org/packages/beremiz-hg/
 https://aur.archlinux.org/packages/matiec-hg/
 
 
+
+
+OLD STUFF : 
+
+
 1) PKGBUILD to build it yourself
 
 2) Or already build :
