@@ -1,5 +1,11 @@
 # Beremiz-arch
-Easy way to install beremiz on Archlinux
+Easy way to install beremiz on Archlinux. 
+
+Now on AUR :  
+https://aur.archlinux.org/packages/beremiz-hg/
+
+https://aur.archlinux.org/packages/matiec-hg/
+
 
 1) PKGBUILD to build it yourself
 
